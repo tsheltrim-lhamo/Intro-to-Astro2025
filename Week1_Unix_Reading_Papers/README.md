@@ -20,7 +20,7 @@
 The Unix shell is the basis for scientific computing. By mastering shell commands, you will save
 yourself hours in the future. What seems like a small investment will pay dividends again and again.
 
-**Link to slides for Unix**: [Slides](https://unix-git-tutorial.netlify.app/)
+**Link to slides for Unix**: [Slides](https://github.com/howardisaacson/Intro-to-Astro2025/blob/main/Week1_Unix_Reading_Papers/unix.pdf)
 
 **Deliverable:**
   On Google Drive, you can send a file having list of all of the Unix commands that you learned, with a brief description of each.
