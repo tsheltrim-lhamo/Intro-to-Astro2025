@@ -14,9 +14,9 @@ README:
 
 2. Look up the personal websites (NOT university faculty page!) of at least five different astronomers. Explore them in detail. Write an entry in your notebook describing what you like and what you don't like. Remember, a website is often times many people's first impression of you, what do you want them to know? Remember to consider content as well as aesthetics. Use this in planning a design for your personal website.
 
-4. Create an account on overleaf (https://www.overleaf.com/) and make a draft of a CV. Put at least your education, contact information in there. See the "CV Guidelines" for more information.
+3. Create an account on overleaf (https://www.overleaf.com/) and make a draft of a CV. Put at least your education, contact information in there. See the "CV Guidelines" for more information.
 
-5. Pick your favorite html template (https://html5up.net) to get started on your personal website. At least upload a picture of yourself, upload your CV, make some text to introduce yourself. https://pages.github.com
+4. Pick your favorite html template (https://html5up.net) to get started on your personal website. At least upload a picture of yourself, upload your CV, make some text to introduce yourself. https://pages.github.com
 
 
 
