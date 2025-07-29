@@ -16,7 +16,7 @@ README:
 
 3. Create an account on overleaf (https://www.overleaf.com/) and make a draft of a CV. Put at least your education, contact information in there. See the "CV Guidelines" for more information.
 
-4. Pick your favorite html template (https://html5up.net) to get started on your personal website. At least upload a picture of yourself, upload your CV, make some text to introduce yourself. https://pages.github.com
+4. Pick your favorite html template (https://html5up.net) to get started on your personal website. At least upload a picture of yourself, upload your CV, write some text to introduce yourself. You can host the website free on Github https://pages.github.com
 
 
 
