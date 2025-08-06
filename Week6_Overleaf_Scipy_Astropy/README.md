@@ -7,7 +7,7 @@ README:
 2. Scipy/Astropy
 
 # Assignments:
-1. Overleaf: find a journal template. Write a short one-page paper on any topic. If you want, you can write a review of this week's scientific paper. Make sure to include at least one equation, one tables, and one figure.
+1. Overleaf: find a journal template on overleaf. Write a one-page paper on any topic. If you want, you can write a summary of this week's reading. Make sure to include at least one equation, one tables, and one figure. Download and upload the compiled pdf.
 
 2. Take a look at latext_intro.pdf for useful Latex commands.
 
